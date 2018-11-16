@@ -1,0 +1,1 @@
+python main.py --corpus ../../../tao_model.txt --embeddings ../../../apple-text-vector.txt --train ../../../train.txt --dev ../../../train.txt --test ../../../tao_test_lucene_purged.txt --dropout 0.1 -d 400 --save_model model_lucene.pkl.gz

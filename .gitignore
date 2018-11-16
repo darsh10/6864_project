@@ -1,0 +1,11 @@
+*.pyc
+.DS_Store
+DATA/*
+DATA_DJS/*
+docs/*
+baseline/new_relevant_files.txt
+baseline/a*.txt
+baseline/*.pkl
+baseline/*.bin
+*.dat
+baseline/svm

@@ -1,0 +1,1 @@
+python main.py --corpus ../../../tao_model_best_sentences.txt --embeddings ../../../apple-text-vector.txt --train ../../../train_para.txt --test ../../../test_para.txt --dropout 0.1 -d 400
